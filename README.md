@@ -11,12 +11,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                           | Associated Project         |
 |-------------------------------------------------|----------------------------|
-| SIEM Implementation with Splunk                 | <a href="https://google.com">Splunk Projects</a>|
-| Active Directory Configuration & Management     | <a href="https://google.com">Active Directory Configuration</a>|
-| Designing & Configuring Network in Cisco Packet Tracer| Networking Projects|
-| IDS/IPS Implementation using Snort              | Snort|
-| Network Traffic Analysis                        | Wireshark|
-| OverTheWire Linux Challenges                    | Bandit|
+| SIEM Implementation with Splunk                 | <a href="https://google.com](https://github.com/Md-Jamiul-Haque/Splunk-Projects.git">Splunk Projects</a>|
+| Active Directory Configuration & Management     | <a href="https://google.com](https://github.com/Md-Jamiul-Haque/Active-Directory-Project.git">Active Directory Project</a>|
+| Designing & Configuring Network in Cisco Packet Tracer| <a href="https://github.com/Md-Jamiul-Haque/Networking-Projects.git">Networking Projects</a>|
+| IDS/IPS Implementation using Snort              | <a href="https://github.com/Md-Jamiul-Haque/Snort.git">Snort</a>|
+| Network Traffic Analysis                        | <a href="https://github.com/Md-Jamiul-Haque/Wireshark.git">Wireshark</a>|
+| OverTheWire Linux Challenges                    | <a href="https://github.com/Md-Jamiul-Haque/OverTheWire-Linux-Challenges.git">OverTheWire</a>|
 
 ## Tools
 
