@@ -1,4 +1,4 @@
-# Hello, I'm Md Jamiul Haque
+# Hello and welcome! I'm Md Jamiul Haque
 <a href="https://www.linkedin.com/in/md-jamiul-haque/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a recent Computer Science & Engineering graduate with a profound interest in cybersecurity, including hands-on experience in network traffic analysis, threat intelligence, vulnerability assessment, and digital forensics. I have earned several certifications and continually strengthen my skills through technical scenarios in a home lab.
