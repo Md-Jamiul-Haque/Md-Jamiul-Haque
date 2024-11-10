@@ -1,7 +1,7 @@
 # Hello, I'm Md Jamiul Haque
 <a href="https://www.linkedin.com/in/md-jamiul-haque/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent Computer Science & Engineering graduate with a profound interest in cybersecurity.
+I am a recent Computer Science & Engineering graduate with a profound interest in cybersecurity, including handson experience in network traffic analysis, threat intelligence, vulnerability assessment, and digital forensics. I have earned several certifications and continually strengthen my skills through technical scenarios in a home lab.
 
 ## Objective
 
@@ -9,48 +9,50 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                           | Associated Project         |
+|-------------------------------------------------|----------------------------|
+| SIEM Implementation with Splunk                 | <a href="https://google.com">Splunk Projects</a>|
+| Active Directory Configuration & Management     | <a href="https://google.com">Active Directory Configuration</a>|
+| Designing & Configuring Network in Cisco Packet Tracer| Networking Projects|
+| IDS/IPS Implementation using Snort              | Snort|
+| Network Traffic Analysis                        | Wireshark|
+| OverTheWire Linux Challenges                    | Bandit|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/WIRESHARK-0D92F4?style=for-the-badge&logo=wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/SNORT-FF8F8F?style=for-the-badge&logo=snort&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/ZEEK-4CC9FE?style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/WAZUH-3FA2F6?style=for-the-badge&logo=wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/Velociraptor-399918?style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/Sysmon-4C1F7A?style=for-the-badge&logo=Sysmon&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/SPLUNK-06D001?style=for-the-badge&logo=splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+### DFIR
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/AUTOPSY-B17457?style=for-the-badge&logo=seluth%20kit&logoColor=white" />
+    <img src="https://img.shields.io/badge/Volatility-508C9B?style=for-the-badge&logo=volatility&logoColor=white" />
+    <img src="https://img.shields.io/badge/REDLINE-B8001F?style=for-the-badge&logo=redline&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/GOOGLE%20CYBERSECURITY%20PROFESSIONAL-399918?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/TryHackMe_SOC_Level_1-D80032?style=for-the-badge&logo=tryhackme&logoColor=white" />
+<img src="https://img.shields.io/badge/Mastercard_Job_Simulation-FAB12F?style=for-the-badge&logo=mastercard&logoColor=white" />
+</div>
+
