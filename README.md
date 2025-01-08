@@ -15,6 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Active Directory Configuration & Management     | <a href="https://github.com/Md-Jamiul-Haque/Active-Directory-Project">Active Directory Project</a>|
 | Designing & Configuring Network in Cisco Packet Tracer| <a href="https://github.com/Md-Jamiul-Haque/Networking-Projects">Networking Projects</a>|
 | IDS/IPS Implementation using Snort              | <a href="https://github.com/Md-Jamiul-Haque/Snort">Snort</a>|
+| Wazuh              | <a href="https://github.com/Md-Jamiul-Haque/Wazuh">Wazuh</a>|
 | Network Traffic Analysis using Wireshark                      | <a href="https://github.com/Md-Jamiul-Haque/Wireshark">Wireshark</a>|
 | OverTheWire Linux Challenges                    | <a href="https://github.com/Md-Jamiul-Haque/OverTheWire-Linux-Challenges">OverTheWire</a>|
 
