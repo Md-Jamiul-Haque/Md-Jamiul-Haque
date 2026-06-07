@@ -1,11 +1,8 @@
 # Hello and welcome! I'm Md Jamiul Haque
 <a href="https://www.linkedin.com/in/md-jamiul-haque/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent Computer Science & Engineering graduate with a profound interest in cybersecurity, including hands-on experience in network traffic analysis, threat intelligence, vulnerability assessment, and digital forensics. I have earned several certifications and continually strengthen my skills through technical scenarios in a home lab.
-
-## Objective
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Computer Science graduate and Cybersecurity Analyst who prefers building defensive systems over just watching alerts. My background bridges the gap between hands-on SOC operations and platform engineering, with a huge focus right now on where security meets AI.
+Instead of just reacting to incidents, I focus on tuning and scaling telemetry pipelines (Wazuh, Splunk) across virtual environments and closing visibility gaps using MITRE ATT&CK. Lately, I'm putting my headspace into the future of SecOps, specifically researching LLM security vulnerabilities and exploring how to deploy intelligent AI agents to automate complex defensive workflows.
 
 ## Skills
 
